@@ -1,5 +1,5 @@
 Git is a distributed version control system.
-Git is free software.
+Git is a free software.
 你好，我的小宝贝。 才测试
 Creating a new branch is quick AND simple.
 add merge  
